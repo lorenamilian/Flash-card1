@@ -3,29 +3,29 @@
         "title": "JavaScript Flashcards",
         "cards": [
             {
-                "question": "What language are Express apps written in?",
-                "hint": "It starts with a \"J\"",
-                "answer": "JavaScript"
+                "question": "What is the longest river in the United States?",
+                "hint": "It starts with a \"M\"",
+                "answer": "At 2,565 miles (4,130), the Missouri River is the longest river in the United States"
             },
             {
-                "question": "What is one way a website can store data in a user's browser?",
-                "hint": "They are delicious with milk",
-                "answer": "Cookies"
+                "question": "What state is bordered by Nebraska, Kansas, Oklahoma, New Mexico, Utah, and Wyoming?",
+                "hint": "'Centennial State'",
+                "answer": "Colorado is bordered by Nebraska, Kansas, Oklahoma, New Mexico, Utah, and Wyoming."
             },
             {
-                "question": "What is a common way to shorten the response object's name inside middleware?",
-                "hint": "It has the same abbreviation as \"resolution\"",
-                "answer": "res"
+                "question": "Death Valley is located in what U.S. state?",
+                "hint": "It starts with a \"C\"",
+                "answer": "Given its name during the 1849 gold rush by emigrants looking to cross it, Death Valley is located in the northern Mojave Desert of southern California. "
             },
             {
-                "question": "How many different values can booleans have?",
-                "hint": "Think: binary",
-                "answer": "2"
+                "question": "Which of the Great Lakes is located entirely within the U.S. border?",
+                "hint": "Think: Michigan",
+                "answer": "Lake Michigan is the only one of the Great Lakes located entirely within the U.S. border. "
             },
             {
-                "question": "Which HTML element can contain JavaScript?",
-                "hint": "It starts with an \"s\"",
-                "answer": "<script>"
+                "question": "What is the tallest mountain in the United States?",
+                "hint": "Located in Alaska",
+                "answer": "At 6,194 meters (20,320 ft) Mount McKinley, in Alaska, is the tallest mountain in the United States."
             }
         ]
     }
