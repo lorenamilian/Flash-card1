@@ -76,10 +76,10 @@ input {
 .button-primary-small {
   margin-top: 50px;
   background-color: #fff;
-  border: 2px #D64226 solid;
+  border: 2px rgb(80, 80, 80) solid;
   font-size: 1em;
   padding: 8px 10px;
-  color: #D64226;
+  color: rgb(56, 56, 56);
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
@@ -100,7 +100,7 @@ input {
   background-color: rgb(245, 240, 240);
   max-width: 400px;
   margin: auto;
-  color: rgb(88, 88, 88);
+  color: rgb(62, 138, 102);
   font-size: 120%;
   text-align: center;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -141,10 +141,10 @@ input {
 .namecard-submit {
   margin-top: 50px;
   background-color: #fff;
-  border: 2px #D64226 solid;
+  border: 2px rgb(83, 83, 83) solid;
   font-size: 1em;
   padding: 8px 10px;
-  color: #D64226;
+  color: rgb(66, 66, 66);
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   width: 100%;
   display: block;
@@ -152,8 +152,8 @@ input {
 }
 
 .namecard-submit:hover {
-  background-color: #D64226;
-  color: #fff;
+  background-color: rgb(170, 245, 220);
+  color: rgb(66, 66, 66);
   cursor: pointer;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -190,7 +190,7 @@ input {
 .card {
   position: relative;
   max-width: 400px;
-  min-height: 425px;
+  min-height: 450px;
   box-sizing: border-box;
   margin: auto;
   padding-bottom: 30px;
@@ -200,6 +200,7 @@ input {
   border-top-left-radius: 20px;
   line-height: 1.5;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding-bottom: 8px;
 }
 
 .card-header {
@@ -261,12 +262,13 @@ input {
 
 #content button {
   padding: 8px 10px;
-  font-size: .8em;
+  font-size: 15px;
   margin: auto;
   color: #C79735;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-  background-color: #F5F3ED;
-  border: 1px solid #C79735;
+  background-color: rgb(245, 240, 240);
+  border: 2px solid #C79735;
+  transition-duration: 0.5s;
 }
 
 #content button {
@@ -275,7 +277,7 @@ input {
 
 #content button:hover {
   cursor: pointer;
-  background-color: #C79735;
+  background-color: rgb(185, 140, 48);
   color: #fff;
 }
 
