@@ -26,8 +26,7 @@ app.use((err, req, res, next) => {
   res.locals.error = err;
   res.status(err.status);
   res.render("error");
+  s;
 });
 
-app.listen(process.env.PORT || 5000, () => {
-  console.log("The application is running on localhost:3000!");
-});
+app.listen(process.env.PORT || 5000);
